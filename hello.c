@@ -2,6 +2,10 @@
 
 int main()
 {
-    printf("Hello World!");
+    /*
+    First hello world in C language
+    printf("Hello World!")
+    */
+    printf("Hello Student");
     return 0;
 }
