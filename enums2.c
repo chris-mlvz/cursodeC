@@ -11,6 +11,6 @@ enum deck
 int main()
 {
     card = spades;
-    printf("Size of var %d", sizeof(card));
+    printf("Size of var %zu", sizeof(card));
     return 0;
 }
