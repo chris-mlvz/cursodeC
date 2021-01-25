@@ -15,6 +15,9 @@ Basic Types:
 
 Aritmeticos:
     (A) Valores enteros
+                    char            1  Byte         -128 to 127
+                    unsigned char   1  Byte         0 to 255
+
                     int             2  Bytes        -32,768 to 32,767 
                     int             4  Bytes        -2,147,483,648 to 2,147,483,647
                     unsigned int    2  Bytes        0 to 65,535
